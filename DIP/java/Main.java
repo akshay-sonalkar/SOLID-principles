@@ -1,5 +1,13 @@
 package DIP.java;
 
+/**
+ * DIP (Dependency Inversion Principle) -- When high-level modules depend on low-level modules, the system becomes rigid.
+ * The Dependency Inversion Principle is a way to decouple software modules.
+ * This principle states that high-level modules should not depend on low-level modules.
+ * Both should depend on abstractions.
+ *
+ */
+
 public class Main {
     public static void main(String[] args) {
         Switchable airConditioner = new AirConditioner();

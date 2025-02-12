@@ -1,6 +1,17 @@
 package SRP.java;
 
-public class UserController {
+/**
+ * SRP (Single Responsibility Principle) -
+ * A class should have only one reason to change, meaning that a class should have
+ * only one job or responsibility.
+ * - A class should have only one job.
+ * - A class should have only one reason to change.
+ * - A class should have only one responsibility.
+ * - A class should have only one job to do.
+ * - A class should have only one purpose.
+ *
+ */
+public class Main {
 
     public static void main(String[] args) {
 
